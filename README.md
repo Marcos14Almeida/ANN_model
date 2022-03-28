@@ -12,7 +12,7 @@ Através do uso de Python, eu uso um dataset com informações a respeito de cli
 
 Baixe os arquivos e com o uso de algum compilador python com suporte para Keras, Tensorflow, Numpy, Pandas e Sklearn instalados execute o código do arquivo ".py".
 
-OU rode o arquivo ".ipynb" do Google Collab. 
+OU rode o arquivo ".ipynb" do Google Collab. *Não esqueça de adicionar o dataset no diretório de arquivos para funcionar.
 
 ## Resultado
 
