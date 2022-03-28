@@ -12,7 +12,7 @@ Através do uso de Python, eu uso um dataset com informações a respeito de cli
 
 Baixe os arquivos e com o uso de algum compilador python com suporte para Keras, Tensorflow, Numpy, Pandas e Sklearn instalados execute o código do arquivo ".py".
 
-Para instalar o Tensorflow no compilador python tente esse link: https://medium.com/@pushkarmandot/installing-tensorflow-theano-and-keras-in-spyder-84de7eb0f0df
+OU rode o arquivo ".ipynb" do Google Collab. 
 
 ## Resultado
 
