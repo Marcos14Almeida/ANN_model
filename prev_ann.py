@@ -64,7 +64,11 @@ y_pred = (y_pred > 0.5)
 print(np.concatenate((y_pred.reshape(len(y_pred),1), y_test.reshape(len(y_test),1)),1))
 
 # Making the Confusion Matrix
-from sklearn.metrics import confusion_matrix, accuracy_score
+from sklearn.metrics import confusion_matrix, accuracy_score, f1_score
 cm = confusion_matrix(y_test, y_pred)
+print("\nConfusion Matrix")
 print(cm)
 accuracy_score(y_test, y_pred)
+
+print("Accuracy: ",accuracy_score(y_test, y_pred))
+print("F1 Score: ",f1_score(y_test, y_pred, average='macro'))
