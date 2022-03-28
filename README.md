@@ -18,8 +18,9 @@ Para instalar o Tensorflow no compilador python tente esse link: https://medium.
 
 Confusion Matrix = 
 
-[[46  7]
+[[43  10]
 
- [19  6]]
+ [11  14]]
  
-Accuracy = 0.666
+Accuracy = 0.730
+F1-Score = 0.687
