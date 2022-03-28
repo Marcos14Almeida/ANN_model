@@ -15,4 +15,8 @@ Baixe os arquivos e com o uso de algum compilador python com suporte para Keras,
 Para instalar o Tensorflow no compilador python tente esse link: https://medium.com/@pushkarmandot/installing-tensorflow-theano-and-keras-in-spyder-84de7eb0f0df
 
 ## Resultado
-Accuracy = 0.8742
+
+Confusion Matrix = 
+[[46  7]
+ [19  6]]
+Accuracy = 0.666
